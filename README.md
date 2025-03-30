@@ -4,7 +4,7 @@
 
 LUXE is an e-commerce website designed to provide a seamless online shopping experience. This repository contains the source code and resources necessary to deploy and maintain the LUXE platform.
 
-![LUXE Banner](https://via.placeholder.com/800x300?text=LUXE+E-Commerce+Platform)
+
 
 ## 🔥 Features
 
